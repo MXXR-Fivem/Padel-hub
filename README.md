@@ -54,25 +54,8 @@ cd B-TBM-100-PAR-1-1-yowl-6
 ```
 npm install docker
 ```
-   
-3. .env example :
-```
-NGROK_AUTHTOKEN="NGROK API KEY"
 
-# Database
-MYSQL_ROOT_PASSWORD="ROOT_PASSWORD"
-MYSQL_DATABASE="DB_NAME"
-
-# Backend
-DB_HOST="DB_URL"
-DB_PORT="port"
-DB_USER="DB_USER"
-DB_PASSWORD="DB_PASSWORD"
-DB_NAME="DB_NAME"
-JWT_SECRET="JWT_SECRET```
-```
-
-4. Install dependencies & start :
+3. Install dependencies & start :
 ```bash
 docker compose up --build
 ```
@@ -107,4 +90,5 @@ https://github.com/user-attachments/assets/a9ee5a6c-9faa-4895-8e58-26f2b8fa443d
 | | - - 08_ prioritization / Prioritization
 | | - - 09_ pitch / Product Pitch
 ```
+
 
