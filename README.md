@@ -13,7 +13,7 @@ This code is published for demonstration purposes only.
 (Prototype)
 - Figma -> to design the app and make a prototype
 
-(Backend)
+(Backend, removed for the preview)
 - NodesJS with ExpressJS -> easy and fast backend 
 
 (Database)
@@ -84,9 +84,10 @@ Figma prototype : https://www.figma.com/design/nsnF5cxknxaF5y4UtdTyvq/Padel-hub?
 
 Below are screen records showing the app features
 
-### Prototype
+### Prototype (with mobile expo app)
 
-link to the prototype : https://www.figma.com/proto/nsnF5cxknxaF5y4UtdTyvq/Padel-hub?node-id=0-1&t=EeOaeBbIFQqzRbz9-1
+![image](./assets/padel_hub_qr.png)\
+Or : link to the prototype : ```exp://sq5vmly-anonymous-8081.exp.direct```
 
 https://github.com/user-attachments/assets/d1cf29f4-f058-405d-837d-29d9df644b59
 
