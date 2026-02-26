@@ -1,0 +1,120 @@
+# MVP Definition 
+
+## Purpose of the MVP
+
+The goal of the MVP is to validate the core proposition of Padel Hub:  
+helping players easily organize padel games and reservations, while creating the foundations for future monetization and engagement.
+
+The MVP focuses on utility, simplicity, and smooth user flows.
+
+## Main User Flow (MVP)
+
+1. **User signs up / logs in**
+2. **User creates or joins a game**
+   - Selects a club
+   - Chooses a time slot
+   - Invites players or responds to invitations
+3. **Players communicate via messaging**
+   - Confirm participation
+   - Adjust details if needed
+4. **Reservation is secured**
+   - Payment is completed
+   - Booking is confirmed
+5. User checks rankings or browses the shop
+
+This flow represents the primary reason users open the app.
+
+---
+
+## Essential Screens (MVP)
+
+### 1. Authentication
+- Sign up
+- Log in
+- Basic profile creation (name, level, preferred club)
+
+### 2. Booking / Game Creation (Core Screen)
+- Create a game session
+- Choose:
+  - Club
+  - Date & time
+  - Number of players
+- Invite players or make the game public
+- Join / decline invitations
+- Payment and reservation confirmation
+
+### 3. Messaging
+- One-on-one and group chat linked to a game
+- Simple, intuitive UI
+- Quick actions (accept, decline, confirm)
+
+### 4. Club Selection
+- List of partner padel clubs
+- Available time slots
+- Pricing visibility
+
+### 5. Ranking
+- Player ranking overview
+- Basic stats (wins / losses)
+- Internal ranking logic (MVP version)
+
+### 6. Shop
+- Product catalog from validated partners
+- Product detail page
+- External purchase or affiliate redirection
+
+---
+
+## Minimal Features Included
+
+### Must Have
+- Game creation and booking
+- Club selection and time slot reservation
+- Payment to secure bookings
+- Messaging system linked to games
+
+### Should Have
+- Clean and appealing UI
+- Smooth invitation and response flow
+- Internal player ranking (basic logic)
+-Shop with limited number of verified partners
+
+### Could Have (Included if time allows)
+- Coaching feature with referenced partner
+- Basic feed elements (match results, achievements)
+
+---
+
+## Explicitly Excluded from the MVP
+
+The following features **will not be developed in Phase 2**:
+
+- Digital club / clan system for players
+- Advanced social feed (likes, comments, infinite scroll)
+- Rules of padel section (static educational content)
+- Official federation ranking integration
+- Tournaments management
+- Ads system or monetized feed
+- Advanced personalization and recommendations
+
+These features are considered post-MVP and will be evaluated based on user feedback.
+
+---
+
+## MVP Success Criteria
+
+The MVP will be considered successful if:
+- Users can organize and book padel sessions without friction
+- Messaging is actively used to coordinate games
+- Bookings are completed end-to-end
+- Early retention shows repeat usage
+
+---
+
+## Summary
+
+    Phase 2 focuses on **one problem solved extremely well**:\
+
+    How do I easily organize and play padel with others?”
+
+Everything that does not directly support this goal is intentionally excluded.
