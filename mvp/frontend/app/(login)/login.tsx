@@ -56,9 +56,9 @@ export default function Login() {
             </View>
 
             <View style={styles.socialContainer}>
-                <SocialLogin data = {{text: "Login with Strava", vector: Strava, backgroundColor: "#FC4C02", textColor: "white"}}/>
-                <SocialLogin data = {{text: "Login with Google", vector: Google, backgroundColor: "white", textColor: "grey"}}/>
-                <SocialLogin data = {{text: "Login with Apple", vector: Apple, backgroundColor: "black", textColor: "white"}}/>
+                <SocialLogin onPress={handleSubmit}  data = {{text: "Login with Strava", vector: Strava, backgroundColor: "#FC4C02", textColor: "white"}}/>
+                <SocialLogin onPress={handleSubmit}  data = {{text: "Login with Google", vector: Google, backgroundColor: "white", textColor: "grey"}}/>
+                <SocialLogin onPress={handleSubmit}  data = {{text: "Login with Apple", vector: Apple, backgroundColor: "black", textColor: "white"}}/>
             </View>
         </View>
     );
