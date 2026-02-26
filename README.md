@@ -76,7 +76,6 @@ JWT_SECRET="JWT_SECRET```
 ```bash
 docker compose up --build
 ```
-5. 
 
 ## 🔎 Preview
 
@@ -108,3 +107,4 @@ https://github.com/user-attachments/assets/a9ee5a6c-9faa-4895-8e58-26f2b8fa443d
 | | - - 08_ prioritization / Prioritization
 | | - - 09_ pitch / Product Pitch
 ```
+
