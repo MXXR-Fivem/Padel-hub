@@ -68,8 +68,8 @@ Below are screen records showing the app features
 
 ### Prototype (with mobile expo app)
 
-![image](./assets/padel_hub_qr.png)\
-Or : link to the prototype : ```exp://sq5vmly-anonymous-8081.exp.direct```
+<img width="245" height="295" alt="image" src="https://github.com/user-attachments/assets/687a2ae6-1acc-4e5b-a069-d34f583bc09b" /> \
+Or : link to the prototype : ```exp://v7q-bh8-anonymous-8081.exp.direct```
 
 https://github.com/user-attachments/assets/d1cf29f4-f058-405d-837d-29d9df644b59
 
