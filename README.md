@@ -69,8 +69,8 @@ Below are screen records showing the app features
 ### Prototype (with mobile expo app)
 
 Scan the QR code above with Expo Go (Android) or the Camera app (iOS) \
-<img width="371" height="418" alt="image" src="https://github.com/user-attachments/assets/40d57b60-0df2-418a-993f-50305d74f773" /> \
-Or : link to the prototype : ```exp://uoyfahs-anonymous-8081.exp.direct```
+<img width="245" height="293" alt="image" src="https://github.com/user-attachments/assets/6f15e632-d845-4b4f-b65f-7d624305439c" />\
+Or : link to the prototype : ```exp://3vp6vpk-anonymous-8081.exp.direct```
 
 https://github.com/user-attachments/assets/d1cf29f4-f058-405d-837d-29d9df644b59
 
