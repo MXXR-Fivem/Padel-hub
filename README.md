@@ -6,7 +6,7 @@ This code is published for demonstration purposes only.
 © 2025 RJTS — **All rights reserved.**
 
 ## ⚙️ Tech Stack
-(Fontend)
+(Frontend)
 - React native (with tsx) -> to easily make a android/ios app
 - Expo -> mobile prototype for apps
 
